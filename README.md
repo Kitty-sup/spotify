@@ -17,7 +17,6 @@ A comprehensive project analyzing the **Popular Spotify Songs** dataset using **
 
 - Most songs in the dataset are in **Major mode**.  
 - Top artists with the **highest streams** identified using window functions.  
-- Songs categorized into **popularity buckets** (Super Hit, Hit, Normal) based on streams.  
 - Advanced queries cover **ranking, aggregation, and multi-platform analysis**.  
 
 ---
